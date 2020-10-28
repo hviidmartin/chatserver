@@ -1,7 +1,7 @@
 // postx.js
 const fetch = require('node-fetch');
 
-let beskedUrl = 'http://localhost:8080/beskeder';
+let beskedUrl = 'https://jokewebserver.herokuapp.com/beskeder';
 
 async function post(url, objekt) {
     const respons = await fetch(url, {
