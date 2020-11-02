@@ -2,7 +2,6 @@
 const mongoose = require('mongoose');
 const config = require('../config');
 const voresjokes = require('../models/voresjokes');
-const config = require('../config');
 
 mongoose.connect(config.databaseURI, {useNewUrlParser: true, useUnifiedTopology: true});
 

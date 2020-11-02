@@ -1,0 +1,42 @@
+{
+    "Døde baby jokes": {
+        "joke 1":{
+            "Setup": "Hvordan griber man en baby der er i frit fald?",
+            "Punchline": "Med en hø tyv"
+        },
+        "joke 2": {
+            "Setup": "Hvordan får man bedst en baby op af en blender?",
+            "Punchline": "Med nachos"
+        }
+    },
+    "Blondine jokes":{
+        "Joke 1":{
+            "Setup": "Hvorfor var blondinen glad for, at samle et puzzlespil på 6 måneder?",
+            "Punchline": "For der stod 2-4 år"
+    },
+        "Joke 2": {
+            "Setup": "Hvad kalder man en blondine med en hjerne?",
+            "Punchline": "Uddød"
+        }
+},
+    "Alle børnene jokes":{
+        "Joke 1": {
+            "Setup": "Alle børnene kom over marken untaget bo ",
+            "Punchline": "Han blev voldtaget af en ko"
+        },
+        "Joke 2": {
+            "Setup": "Alle børnene ristede pølser undtagen Niller",
+            "Punchline": "Han ristede sin diller"
+        }
+    },
+    "Coding jokes":{
+        "Joke 1": {
+            "Setup": "Hvad er forskellen på en Linux bruger og en rotte?",
+            "Punchline": "Rotten formerer sig."
+        },
+        "Joke 2":{
+            "Setup": "Hvad er der i mosen?",
+            "Punchline": "URL'er"
+        }
+    }
+}
