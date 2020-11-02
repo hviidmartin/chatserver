@@ -6,8 +6,8 @@ const router = express.Router();
 router
     .get('/', async (request, response) => {
         try {
-            let beskeder = await controller.getBeskeder();
-            response.send(beskeder);
+            let voresJokes = await controller.getJokes();
+            response.send(voresJokes);
         } catch (e) {
             sendStatus(e, response);
         }
