@@ -6,6 +6,7 @@ const config = require('./config');
 app.use(express.static('public'));
 app.use(express.json());
 app.use('/voresjokes', require('./routes/voresjokes'));
+app.use(express.static(__dirname + '/public'));
 
 const port = process.env.PORT || config.localPort; // Heroku
 app.listen(port);
